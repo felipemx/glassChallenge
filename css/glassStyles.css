@@ -1,0 +1,12 @@
+tr:nth-child(even){
+	background-color:#CACACA;
+}
+
+*{
+	font-family: "Verdana", Arial, sans-serif;
+	font-size: 0.95em;
+}
+
+li{
+	list-style-type: none;
+}
